@@ -1,0 +1,5 @@
+System and software requirements : ditangkap dalam dokumen kebutuhan produk[1]
+Analysis: menghasilkan model, skema, dan aturan bisnis[1]
+Design: menghasilkan arsitektur perangkat lunak[1]
+Coding: pengembangan, pembuktian, dan integrasi perangkat lunak[1]
+Testing: penemuan dan debugging cacat yang sistematis[1]
